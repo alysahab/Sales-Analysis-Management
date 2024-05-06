@@ -1,5 +1,5 @@
 
-# Title: Sales Management Dashboard: Readme Introduction
+# Title: Sales Management Dashboard:
 
 Welcome to the Sales Management Dashboard project! This readme provides a brief overview of the project scope, objectives, and key components to help you navigate and understand the project's functionalities.
 
