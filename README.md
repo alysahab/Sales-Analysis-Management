@@ -15,6 +15,9 @@ Data Cleansing & Transformation (SQL): Explore the process of preparing the data
 Data Model: Gain insights into the structured data model created for analysis, illustrating the relationships between different tables and data sources.<br>
 Sales Management Dashboard: Discover the finalized dashboard, featuring comprehensive visualizations and insights derived from sales data, facilitating intuitive decision-making for sales managers.
 
+Data Source:
+The data utilized in this project is sourced from the (AdventureWorks sample databases)[https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms], a widely-used dataset for learning and testing purposes in the realm of data analytics and business intelligence. This rich dataset encompasses various aspects of sales transactions, including customer information, product details, and sales orders, offering a comprehensive foundation for analysis.
+
 
 ## Business Request & User Stories<br>
 The business request for this data analyst project was an executive sales report for sales managers. Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.<br>
