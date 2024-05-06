@@ -4,7 +4,9 @@
 Welcome to the Sales Management Dashboard project! This readme provides a brief overview of the project scope, objectives, and key components to help you navigate and understand the project's functionalities.
 
 **Objective:**
+
 The primary goal of this project is to develop an executive sales report tailored for sales managers, providing them with valuable insights to enhance decision-making and drive sales performance. Through meticulous data analysis and visualization, we aim to empower users with actionable information derived from sales data.
+
 
 **Key Components:**
 
@@ -12,6 +14,7 @@ Business Request & User Stories: Understand the origin of the project and the de
 Data Cleansing & Transformation (SQL): Explore the process of preparing the data for analysis, including SQL queries utilized for data extraction, cleansing, and transformation.<br>
 Data Model: Gain insights into the structured data model created for analysis, illustrating the relationships between different tables and data sources.<br>
 Sales Management Dashboard: Discover the finalized dashboard, featuring comprehensive visualizations and insights derived from sales data, facilitating intuitive decision-making for sales managers.
+
 
 ## Business Request & User Stories<br>
 The business request for this data analyst project was an executive sales report for sales managers. Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.<br>
