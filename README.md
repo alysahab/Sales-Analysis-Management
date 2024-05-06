@@ -16,7 +16,7 @@ Data Model: Gain insights into the structured data model created for analysis, i
 Sales Management Dashboard: Discover the finalized dashboard, featuring comprehensive visualizations and insights derived from sales data, facilitating intuitive decision-making for sales managers.
 
 Data Source:
-The data utilized in this project is sourced from the (AdventureWorks sample databases)[https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms], a widely-used dataset for learning and testing purposes in the realm of data analytics and business intelligence. This rich dataset encompasses various aspects of sales transactions, including customer information, product details, and sales orders, offering a comprehensive foundation for analysis.
+The data utilized in this project is sourced from the [AdventureWorks sample databases](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms), a widely-used dataset for learning and testing purposes in the realm of data analytics and business intelligence. This rich dataset encompasses various aspects of sales transactions, including customer information, product details, and sales orders, offering a comprehensive foundation for analysis.
 
 
 ## Business Request & User Stories<br>
@@ -53,4 +53,4 @@ The finished sales management dashboard with one page with works as a dashboard 
 
 ![Screenshot 2024-05-06 192214](https://github.com/alysahab/Sales-Analysis-Management/assets/125446376/aa649f74-d6d7-499a-bba3-d90e585acee2)
 
-**link** to dashboard : https://app.powerbi.com/view?r=eyJrIjoiOWYzZmRjOGMtNWI1OC00MGJlLWJhYWEtOTE3MWJiZWIwOTcxIiwidCI6ImQ3NTVkZWIwLTFkNTgtNGFkNS05MDg5LTYyYzU5ZmU4MzdmOCIsImMiOjl9
+[click link](https://app.powerbi.com/view?r=eyJrIjoiOWYzZmRjOGMtNWI1OC00MGJlLWJhYWEtOTE3MWJiZWIwOTcxIiwidCI6ImQ3NTVkZWIwLTFkNTgtNGFkNS05MDg5LTYyYzU5ZmU4MzdmOCIsImMiOjl9) to dashboard
